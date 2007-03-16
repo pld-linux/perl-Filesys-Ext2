@@ -13,7 +13,7 @@ Release:	0.1
 License:	free (see LICENSE.pod)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Filesys/%{pdir}-%{pnam}-%{version}.tgz
-# Source0-md5:	787c8ffb4a2e2a8fa319e8a2f002aa22
+# Source0-md5:	9a09c08d6a6221895825cdc5e7d21caf
 URL:		http://search.cpan.org/dist/Filesys-Ext2/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
