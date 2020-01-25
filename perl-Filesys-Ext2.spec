@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Filesys
 %define	pnam	Ext2
 Summary:	Filesys::Ext2 - Interface to ext2 and ext3 filesystem attributes
